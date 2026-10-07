@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "starts_fall=false": {
+      "model": "unstable_ice:block/unstable_ice"
+    },
+    "starts_fall=true": {
+      "model": "unstable_ice:block/unstable_ice"
+    }
+  }
+}
